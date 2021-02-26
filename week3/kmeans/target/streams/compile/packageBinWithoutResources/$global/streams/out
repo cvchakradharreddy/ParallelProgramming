@@ -1,0 +1,73 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/parprog1-kmeans-without-resources_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/KMeansRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/KMeansRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/PhotoCanvas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/PhotoCanvas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ConvergedWhenSNRAbove.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ConvergedWhenSNRAbove.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ScalaShop$ScalaShopFrame$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ScalaShop$ScalaShopFrame$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/KMeans.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/KMeans.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ConvergedAfterMeansAreStill.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ConvergedAfterMeansAreStill.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/UniformSampling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/UniformSampling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ScalaShop$ScalaShopFrame$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ScalaShop$ScalaShopFrame$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ConvergenceStrategy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ConvergenceStrategy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ScalaShop$ScalaShopFrame$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ScalaShop$ScalaShopFrame$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/RandomSampling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/RandomSampling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ScalaShop$ScalaShopFrame$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ScalaShop$ScalaShopFrame$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ScalaShop$ScalaShopFrame$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ScalaShop$ScalaShopFrame$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ConvergedAfterMeansAreStill$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ConvergedAfterMeansAreStill$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/UniformChoice$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/UniformChoice$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/IndexedColorFilter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/IndexedColorFilter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/package$Img.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/package$Img.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/RandomSampling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/RandomSampling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/PhotoCanvas$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/PhotoCanvas$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/InitialSelectionStrategy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/InitialSelectionStrategy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/UniformSampling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/UniformSampling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ConvergedAfterNSteps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ConvergedAfterNSteps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ConvergedAfterNSteps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ConvergedAfterNSteps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ConvergedWhenSNRAbove$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ConvergedWhenSNRAbove$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ScalaShop$ScalaShopFrame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ScalaShop$ScalaShopFrame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/KMeansInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/KMeansInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/KMeansRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/KMeansRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ScalaShop$ScalaShopFrame$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ScalaShop$ScalaShopFrame$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ScalaShop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ScalaShop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/Point.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/Point.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/ScalaShop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/ScalaShop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans/fun/UniformChoice.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week3/kmeans/target/scala-2.13/classes/kmeans/fun/UniformChoice.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

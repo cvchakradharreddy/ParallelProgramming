@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(kmeans.KMeansSuite, sbt.ForkMain$AnnotatedFingerscan@2f5b1da5, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest kmeans.[33mKMeansSuite[0m.[36m'classify' should work for empty 'points' and 'means' == Seq(Point(1,1,1))[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest kmeans.[33mKMeansSuite[0m.[36m'classify' should work for empty 'points' and 'means' == Seq(Point(1,1,1))[0m finished, took 0.191 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest kmeans.[33mKMeansSuite[0m.[36m'classify' should work for 'points' == Seq((1, 1, 0), (1, -1, 0), (-1, 1, 0), (-1, -1, 0)) and 'means' == Seq((1, 0, 0), (-1, 0, 0))[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest kmeans.[33mKMeansSuite[0m.[36m'classify' should work for 'points' == Seq((1, 1, 0), (1, -1, 0), (-1, 1, 0), (-1, -1, 0)) and 'means' == Seq((1, 0, 0), (-1, 0, 0))[0m finished, took 0.065 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest kmeans.[33mKMeansSuite[0m.[36m'classify should work for empty 'points' and empty 'means'[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest kmeans.[33mKMeansSuite[0m.[36m'classify should work for empty 'points' and empty 'means'[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest kmeans.[33mKMeansSuite[0m.[36m'classify' should work for 'points' == Seq((1, 1, 0), (1, -1, 0), (-1, 1, 0), (-1, -1, 0)) and 'means' == Seq((0, 0, 0))[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest kmeans.[33mKMeansSuite[0m.[36m'classify' should work for 'points' == Seq((1, 1, 0), (1, -1, 0), (-1, 1, 0), (-1, -1, 0)) and 'means' == Seq((0, 0, 0))[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest kmeans.[33mKMeansSuite[0m.[36m'classify' with data parallelism should work for empty 'points' and empty 'means'[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest kmeans.[33mKMeansSuite[0m.[36m'classify' with data parallelism should work for empty 'points' and empty 'means'[0m finished, took 0.158 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 5 total, 0.551s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 5 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 5, Failed 0, Errors 0, Passed 5[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kmeans.KMeansSuite[0m
