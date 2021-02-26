@@ -1,0 +1,45 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/src/main/scala/scalashop/Test.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/src/main/scala/scalashop/package.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/package$DefaultTaskScheduler$$anon$1.class, /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/package$TaskScheduler.class, /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/package$DefaultTaskScheduler.class, /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/package.class, /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/package$Img.class, /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/package$.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(scalashop.package, scalashop.Img, scalashop.DefaultTaskScheduler, scalashop.TaskScheduler)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/src/main/scala/scalashop/package.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(scalashop.package, scalashop.Img, scalashop.DefaultTaskScheduler, scalashop.TaskScheduler)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/src/main/scala/scalashop/Test.scala, /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/src/main/scala/scalashop/package.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated package objects: Set(scalashop.package)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Scala sources to /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 3bc008eb for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:implicitConversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/classes:/Users/kickass/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes:/Users/kickass/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parallel-collections_2.13/0.2.0/scala-parallel-collections_2.13-0.2.0.jar:/Users/kickass/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2.jar:/Users/kickass/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/kickass/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar:/Users/kickass/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/1.2.0/scala-xml_2.13-1.2.0.jar:/Users/kickass/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/kickass/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.10.0/jline-3.10.0.jar:/Users/kickass/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.13/0.19/scalameter-core_2.13-0.19.jar:/Users/kickass/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.1.1/scala-collection-compat_2.13-2.1.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 5.582792803 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from scalashop.Test...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(scalashop.Test)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(scalashop.Test)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(scalashop.Test,ModifiedNames(changes = UsedName(isInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(Test,[Default]), UsedName(r,[Default]), UsedName(getClass,[Default]), UsedName($init$,[Default]), UsedName(i2,[Default]), UsedName(r2,[Default]), UsedName(e,[Default]), UsedName(delayedInit,[Default]), UsedName($asInstanceOf,[Default]), UsedName(ne,[Default]), UsedName(finalize,[Default]), UsedName(i,[Default]), UsedName(notifyAll,[Default]), UsedName(clone,[Default]), UsedName(asInstanceOf,[Default]), UsedName(hashCode,[Default]), UsedName(args,[Default]), UsedName(equals,[Default]), UsedName(##,[Default]), UsedName(synchronized,[Default]), UsedName(executionStart,[Default]), UsedName($isInstanceOf,[Default]), UsedName(main,[Default]), UsedName(toString,[Default]), UsedName(notify,[Default]), UsedName(==,[Default]), UsedName(eq,[Default]), UsedName(!=,[Default]))) invalidates 1 classes due to The scalashop.Test has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(isInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(Test,[Default]), UsedName(r,[Default]), UsedName(getClass,[Default]), UsedName($init$,[Default]), UsedName(i2,[Default]), UsedName(r2,[Default]), UsedName(e,[Default]), UsedName(delayedInit,[Default]), UsedName($asInstanceOf,[Default]), UsedName(ne,[Default]), UsedName(finalize,[Default]), UsedName(i,[Default]), UsedName(notifyAll,[Default]), UsedName(clone,[Default]), UsedName(asInstanceOf,[Default]), UsedName(hashCode,[Default]), UsedName(args,[Default]), UsedName(equals,[Default]), UsedName(##,[Default]), UsedName(synchronized,[Default]), UsedName(executionStart,[Default]), UsedName($isInstanceOf,[Default]), UsedName(main,[Default]), UsedName(toString,[Default]), UsedName(notify,[Default]), UsedName(==,[Default]), UsedName(eq,[Default]), UsedName(!=,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(scalashop.Test)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m

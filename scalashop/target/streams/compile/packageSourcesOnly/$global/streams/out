@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/parprog1-scalashop_2.13-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/HorizontalBoxBlur.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/src/main/scala/scalashop/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/Test.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/src/main/scala/scalashop/Test.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/Interfaces.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/src/main/scala/scalashop/Interfaces.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/PhotoCanvas.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/src/main/scala/scalashop/PhotoCanvas.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/VerticalBoxBlur.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/ScalaShop.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/src/main/scala/scalashop/ScalaShop.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

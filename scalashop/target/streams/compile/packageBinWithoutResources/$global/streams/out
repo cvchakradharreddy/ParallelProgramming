@@ -1,0 +1,61 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/parprog1-scalashop-without-resources_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/ScalaShop$ScalaShopFrame$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/ScalaShop$ScalaShopFrame$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/VerticalBoxBlurRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/VerticalBoxBlurRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/package$DefaultTaskScheduler$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/package$DefaultTaskScheduler$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/HorizontalBoxBlur$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/HorizontalBoxBlur$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/ScalaShop$ScalaShopFrame$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/ScalaShop$ScalaShopFrame$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/ScalaShop$ScalaShopFrame$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/ScalaShop$ScalaShopFrame$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/ScalaShop$ScalaShopFrame$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/ScalaShop$ScalaShopFrame$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/VerticalBoxBlurRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/VerticalBoxBlurRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/ScalaShop$ScalaShopFrame$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/ScalaShop$ScalaShopFrame$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/VerticalBoxBlurInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/VerticalBoxBlurInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/ScalaShop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/ScalaShop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/Test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/Test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/package$TaskScheduler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/package$TaskScheduler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/Test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/Test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/HorizontalBoxBlurRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/HorizontalBoxBlurRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/BoxBlurKernelInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/BoxBlurKernelInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/package$DefaultTaskScheduler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/package$DefaultTaskScheduler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/HorizontalBoxBlurInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/HorizontalBoxBlurInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/HorizontalBoxBlurRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/HorizontalBoxBlurRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/ScalaShop$ScalaShopFrame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/ScalaShop$ScalaShopFrame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/package$Img.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/package$Img.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/PhotoCanvas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/PhotoCanvas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/VerticalBoxBlur$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/VerticalBoxBlur$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/HorizontalBoxBlur.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/HorizontalBoxBlur.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/Test$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/Test$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/VerticalBoxBlur.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/VerticalBoxBlur.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalashop/ScalaShop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/scalashop/target/scala-2.13/classes/scalashop/ScalaShop.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
