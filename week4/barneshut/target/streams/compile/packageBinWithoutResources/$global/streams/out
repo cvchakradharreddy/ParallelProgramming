@@ -1,0 +1,147 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/parprog1-barneshut-without-resources_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$Fork$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$Fork$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/ConcBuffer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/ConcBuffer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Single$mcD$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Single$mcD$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Append.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Append.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$mcF$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$mcF$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/BarnesHut$BarnesHutFrame$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/BarnesHut$BarnesHutFrame$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/ConcBufferRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/ConcBufferRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/ConcBuffer$mcI$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/ConcBuffer$mcI$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Single$mcI$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Single$mcI$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Chunk.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Chunk.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/SimulationModel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/SimulationModel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/ConcBuffer$mcJ$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/ConcBuffer$mcJ$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/package$ConcOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/package$ConcOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/BarnesHut.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/BarnesHut.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Single.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Single.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$Body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$Body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Single$mcF$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Single$mcF$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Chunk$mcI$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Chunk$mcI$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$TimeStatistics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$TimeStatistics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/ConcBuffer$mcF$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/ConcBuffer$mcF$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$Empty.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$Empty.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$Fork.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$Fork.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/ConcBufferRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/ConcBufferRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$Boundaries.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$Boundaries.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/ConcBuffer$mcD$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/ConcBuffer$mcD$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/SectorMatrixInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/SectorMatrixInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/BarnesHut$BarnesHutFrame$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/BarnesHut$BarnesHutFrame$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$Quad.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$Quad.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$TaskScheduler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$TaskScheduler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/BarnesHut$BarnesHutFrame$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/BarnesHut$BarnesHutFrame$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/SimulationCanvas$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/SimulationCanvas$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/SimulationCanvas$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/SimulationCanvas$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Chunk$mcF$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Chunk$mcF$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/SimulationCanvas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/SimulationCanvas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$Empty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$Empty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$DefaultTaskScheduler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$DefaultTaskScheduler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/package$ConcOps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/package$ConcOps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/QuadInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/QuadInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/BarnesHut$BarnesHutFrame$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/BarnesHut$BarnesHutFrame$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Append$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Append$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Chunk$mcD$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Chunk$mcD$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$mcI$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$mcI$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/BarnesHut$BarnesHutFrame$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/BarnesHut$BarnesHutFrame$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Single$mcJ$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Single$mcJ$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$SectorMatrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$SectorMatrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$mcD$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$mcD$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/BarnesHut$BarnesHutFrame$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/BarnesHut$BarnesHutFrame$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/BarnesHut$BarnesHutFrame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/BarnesHut$BarnesHutFrame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/ConcBuffer$mcB$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/ConcBuffer$mcB$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/BarnesHut$BarnesHutFrame$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/BarnesHut$BarnesHutFrame$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/BarnesHut$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/BarnesHut$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Empty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Empty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/BarnesHut$BarnesHutFrame$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/BarnesHut$BarnesHutFrame$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/SimulationCanvas$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/SimulationCanvas$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/Simulator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/Simulator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$$less$greater.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$$less$greater.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$Chunk$mcJ$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$Chunk$mcJ$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package$DefaultTaskScheduler$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/package$DefaultTaskScheduler$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$$less$greater$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$$less$greater$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/ConcBuffer$mcC$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/ConcBuffer$mcC$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc$mcJ$sp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/classes/barneshut/conctrees/Conc$mcJ$sp.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

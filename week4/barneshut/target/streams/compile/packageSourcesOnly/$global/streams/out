@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/target/scala-2.13/parprog1-barneshut_2.13-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/src/main/scala/barneshut/conctrees/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/Conc.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/src/main/scala/barneshut/conctrees/Conc.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/conctrees/ConcBuffer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/src/main/scala/barneshut/conctrees/ConcBuffer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/SimulationCanvas.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/src/main/scala/barneshut/SimulationCanvas.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/SimulationModel.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/src/main/scala/barneshut/SimulationModel.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/Simulator.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/src/main/scala/barneshut/Simulator.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/Interfaces.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/src/main/scala/barneshut/Interfaces.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/src/main/scala/barneshut/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut/BarnesHut.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/ParallelProgramming/week4/barneshut/src/main/scala/barneshut/BarnesHut.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

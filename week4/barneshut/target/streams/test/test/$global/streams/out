@@ -1,0 +1,30 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(barneshut.BarnesHutSuite, sbt.ForkMain$AnnotatedFingerscan@52b78eba, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36m'SectorMatrix.+=' should add a body at (25,47) to the correct bucket of a sector matrix of size 96 (2pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36m'SectorMatrix.+=' should add a body at (25,47) to the correct bucket of a sector matrix of size 96 (2pts)[0m finished, took 0.196 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mLeaf with 1 body[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mLeaf with 1 body[0m finished, took 0.027 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mEmpty: total should be 0[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mEmpty: total should be 0[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mBody.updated should take bodies in a Leaf into account (2pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mBody.updated should take bodies in a Leaf into account (2pts)[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mEmpty: mass should be 0[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mEmpty: mass should be 0[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mBody.updated should do nothing for Empty quad trees[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mBody.updated should do nothing for Empty quad trees[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mFork with 3 empty quadrants and 1 leaf (nw)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mFork with 3 empty quadrants and 1 leaf (nw)[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mEmpty: center of mass should be the center of the cell[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mEmpty: center of mass should be the center of the cell[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mEmpty.insert(b) should return a Leaf with only that body (2pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest barneshut.[33mBarnesHutSuite[0m.[36mEmpty.insert(b) should return a Leaf with only that body (2pts)[0m finished, took 0.014 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 9 total, 0.385s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 9 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 9, Failed 0, Errors 0, Passed 9[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	barneshut.BarnesHutSuite[0m
