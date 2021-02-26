@@ -1,0 +1,7 @@
+;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/4b/s3lnzph5579g2bdjkvm8bmdw0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/kickass/Library/Application Support/JetBrains/IdeaIC2020.3/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2020.3/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+test
+submit cvchakradharreddy@gmail.com aq3h5PfwsdTb97sK
+test
+submit cvchakradharreddy@gmail.com aq3h5PfwsdTb97sK
+submit cvchakradharreddy@gmail.com gklEFUXNu9JQc6XL
+test

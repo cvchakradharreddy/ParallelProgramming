@@ -1,0 +1,30 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(reductions.ReductionsSuite, sbt.ForkMain$AnnotatedFingerscan@1e945a4, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mcountChange should return 1 when money == 0[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mcountChange should return 1 when money == 0[0m finished, took 0.232 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mcountChange should work when there is only one coin[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mcountChange should work when there is only one coin[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mcountChange should return 0 for money > 0 and coins = List()[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mcountChange should return 0 for money > 0 and coins = List()[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mbalance should work for empty string[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mbalance should work for empty string[0m finished, took 0.058 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mcountChange should return 0 for money < 0[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mcountChange should return 0 for money < 0[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mcountChange should work for multi-coins[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mcountChange should work for multi-coins[0m finished, took 0.11 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mlineOfSight should correctly handle an array of size 4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mlineOfSight should correctly handle an array of size 4[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mbalance should work for string of length 1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mbalance should work for string of length 1[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mbalance should work for string of length 2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest reductions.[33mReductionsSuite[0m.[36mbalance should work for string of length 2[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 9 total, 0.522s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 9 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 9, Failed 0, Errors 0, Passed 9[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions.ReductionsSuite[0m
